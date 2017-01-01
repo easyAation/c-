@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1483255775 source:f:\project\综合试验\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"StaffMange.h"
+
+1483263463 f:\project\综合试验\staffmange.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	"Staff.h"
+	"Leader.h"
+	"Engineer.h"
+
+1483104901 f:\project\综合试验\staff.h
+	<cstdio>
+
+1483259282 f:\project\综合试验\leader.h
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1483259282 f:\project\综合试验\engineer.h
+	<iostream>
+	<iomanip>
+	<cstdio>
+
+1483259450 source:f:\project\综合试验\staffmange.cpp
+	"StaffMange.h"
+	"Engineer.h"
+
